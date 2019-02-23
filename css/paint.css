@@ -12,7 +12,7 @@ body {
   -moz-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
   -webkit-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
   box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
-  border: 15px solid white;
+  border: 10px solid white;
   border-bottom: 60px solid white;
 }
 
